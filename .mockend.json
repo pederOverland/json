@@ -1,7 +1,7 @@
 {
     "User": {
       "title": {
-        "string": {}
+        "string": { "regexp": "[A-Z][a-z]{5,10} [A-Z][a-z]{5,10}" }
       }
     }
   }
